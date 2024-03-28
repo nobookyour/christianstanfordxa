@@ -1,0 +1,33 @@
+{
+  "name": "christianstanfordxa",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "christianstanfordxa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nobookyour/christianstanfordxa"
+  },
+  "website": "https://github.com/nobookyour/christianstanfordxa.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "nobookyour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nobookyour/christianstanfordxa/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/nobookyour/christianstanfordxa#readme",
+  "dependencies": {
+    "brightvvtogoldsmithyb": "1.0.2"
+  }
+}
